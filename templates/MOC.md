@@ -1,5 +1,5 @@
 *{{date:DD-MM-YYYY}}
-{{time:HH:MM}}*
+{{time:HH:mm}}*
 
 Категория: #MOC
 Tags:
